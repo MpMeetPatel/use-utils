@@ -1,0 +1,39 @@
+{
+    "name": "use-utils",
+    "version": "0.1.0",
+    "description": "A utility react hooks which i use most commonly",
+    "main": "build/index.js",
+    "types": "build/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc",
+        "prepublish": "tsc"
+    },
+    "keywords": [
+        "react",
+        "react-hooks",
+        "util",
+        "use-utils",
+        "utility",
+        "hooks"
+    ],
+    "author": "Meet Patel",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/react": "^16.9.23",
+        "@types/react-dom": "^16.9.5",
+        "react": "^16.13.0",
+        "react-dom": "^16.13.0",
+        "tslib": "^1.11.1",
+        "typescript": "^3.8.3"
+    },
+    "peerDependencies": {
+        "react": "^16.13.0",
+        "react-dom": "^16.13.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mpmeetpatel/use-utils"
+    },
+    "homepage": "https://github.com/mpmeetpatel/use-utils#readme"
+}
