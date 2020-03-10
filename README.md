@@ -35,7 +35,7 @@ $ yarn add use-utils
 -   **[`useSetState`](./docs/useSetState.md)** &mdash; Mimicking a class based setState function with hook.
     <br />
 
--   **[`useSetStateWithCallback`](./docs/useSetStateWithCallback.md)** &mdash; setState with callback (Note: we can mimick setState callback, read docs for more info why).
+-   **[`useSetStateWithCallback`](./docs/useSetStateWithCallback.md)** &mdash; setState with callback (Note: we can't mimick exact setState callback, read docs for more info why).
     <br />
 
 -   **[`useToggle`](./docs/useToggle.md)** &mdash; Utility toggling state for any switch, modal, on/off functionality.
